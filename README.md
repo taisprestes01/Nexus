@@ -1,2 +1,2 @@
 # Nexus
-Aplicativo para ajudar pequenas empresas com seus fluxos de estoque.
+App to help small stores manage their inventories.
